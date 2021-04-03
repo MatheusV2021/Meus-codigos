@@ -1,0 +1,77 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Aula 2
+# Prof. Cloves Rocha
+# Estudante: Matheus Vinnycius Vasconcelos de Santana
+
+#VARIAVEIS  
+#a = 10
+#b = 5
+#print(a >= b)
+
+#FUNÇÃO PRINT
+#print ('Olá mundo!', 'estou imprimindo números e palavras', 2, 2.5, True, False)
+#print('Olá mundo!', '2', 2.5, True, False)
+cpf = 125
+print(f'O CPF {cpf} é invalido!')
+
+#nome = input('Digite seu nome: ')
+#print(f'Seu nome é {nome}.')
+
+#idade = input('Digite sua idade: ')
+#print(f'Você tem {idade} anos.')
+
+#idade = input('Digite sua idade: ')
+#print(f'Você tem {idade} anos.')
+#print(type(idade))
+
+#idade = int(input('Digite sua idade: '))
+#print(f'Você tem {idade} anos.')
+#print(type(idade))
+
+#nota = float(input('Digite a nota: '))
+#print(f'Sua nota final é {nota} ')
+#print(type(nota))
+
+#num = int(input('Digite um número: '))
+#if num % 2 == 0:
+#    print(f'O número {num} é par')
+#else:
+#    print(f'O número {num} é ímpar')
+
+#num = float(input('Digite um número: '))
+#if num > 0:
+#   print('Este número é positivo')
+#elif num == 0:
+#   print('Este número é neutro')
+#else:
+#   print('Este número é negativo')
+
+# resposta = int( input('Qual sua idade: ') )
+# if resposta>=18 and resposta <=65:
+#   print('Você é obrigado a votar!')
+# else:
+#   print('Você não é obrigado a votar!')
+
+#print('1. Idoso')
+#print('2. Gestante')
+#print('3. Cadeirante')
+#print('4. Nenhum destes')
+#print('5. Teste 5')
+#resposta=int( input('Você é: ') )
+
+#if (resposta==1) or (resposta==2) or (resposta==3) or (resposta==4):
+#   print('Você tem direito a fila prioritária')
+#else:
+#   print('Você não tem direito a nada. Vá pra fila e fique quieto')
+
+#a = 4
+#b = 3
+#print(not a > b)
+
+#banda = input('Qual melhor banda do mundo? ')
+
+#if not banda=='Beatles':
+#   print('Herege!')
+#else:
+#   print('Correto, são os Beatles!')
