@@ -1,0 +1,62 @@
+# ETE PORTO DIGITAL
+# DISCIPLINA: LPC
+# PROFESSOR: CLOVES ROCHA
+# ESTUDANTE: MATHEUS VINNYCIUS VASCONCELOS DE SANTANA
+
+# Operadores Aritméticos - Python
+
+# Adição
+#2+3
+
+# Subtração
+#5-4
+
+# Multiplicação
+#3*5
+
+# Divisão
+#15/2
+
+# Exponenciação
+#3**10
+
+# Divisão Inteira
+#9//2
+
+# Resto da Divisão
+#15%2
+
+
+# Operadores Relacionais Simples
+
+# Maior que >
+#a = 2
+#b = 3
+#print(a > b)
+
+# Menor que <
+#c = 5
+#d = 6
+#print(c < d)
+
+# Igual a ==
+#a = 1
+#b = 1
+#print(a == b)
+
+
+# Operadores Relacionais Compostos
+#nota = 5.9
+#media = 6
+#print(nota >= media)
+
+#nota1 = 5.9
+#nota2 = 7
+#nota3 = 9
+#nota4 = 6
+#mediafinal = (nota1 + nota2 + nota3 + nota4) / 4
+#print(mediafinal)
+
+
+
+
